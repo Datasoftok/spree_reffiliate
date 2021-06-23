@@ -1,5 +1,5 @@
-class CreateSpreeCommissions < ActiveRecord::Migration[4.2]
-  def change
+class CreateSpreeCommissions < ActiveRecord::Migration[6.0]
+  def changeupgraded to 3.2 3.3 3.4
     create_table :spree_commissions do |t|
       t.references :affiliate, index: true
 
