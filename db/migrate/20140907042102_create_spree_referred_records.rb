@@ -1,4 +1,4 @@
-class CreateSpreeReferredRecords < ActiveRecord::Migration[4.2]
+class CreateSpreeReferredRecords < ActiveRecord::Migration[6.0]
   def change
     create_table :spree_referred_records do |t|
       t.integer :user_id
