@@ -8,7 +8,7 @@ module SpreeReffiliate
   end
 
   module VERSION
-    MAJOR = 3
+    MAJOR = 4
     MINOR = 2
     TINY  = 0
     PRE   = 'alpha'
