@@ -47,7 +47,7 @@ Try Spree Reffiliate for Spree 3-1 with direct deployment on Heroku:
 To use the stable branch, add this line to your Gemfile:
 
 ```ruby
-gem 'spree_reffiliate', github: 'vinsol-spree-contrib/spree_reffiliate'
+gem 'spree_reffiliate', github: 'Datasoftok/spree_reffiliate'
 ```
 
 Bundle your dependencies and run the installation generator:
