@@ -1,4 +1,4 @@
-class CreateSpreeCommissionRules < ActiveRecord::Migration[4.2]
+class CreateSpreeCommissionRules < ActiveRecord::Migration[6.0]
   def change
     create_table :spree_commission_rules do |t|
       t.string :name
