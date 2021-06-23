@@ -1,17 +1,17 @@
-appraise "spree-4-2" do
-  gem 'spree', '~> 4.2'
+appraise "spree-4-2-5" do
+  gem 'spree', '~> 4.2.5'
 end
 
-appraise "spree-4-2" do
-  gem 'spree', '~> 4.2'
+appraise "spree-4-2-5" do
+  gem 'spree', '~> 4.2.5'
 end
 
-appraise "spree-4-2" do
-  gem 'spree', '~> 4.2'
+appraise "spree-4-2-5" do
+  gem 'spree', '~> 4.2.5'
 end
 
-appraise "spree-4-2" do
-  gem 'spree', '~> 4.2'
+appraise "spree-4-2-5" do
+  gem 'spree', '~> 4.2.5'
 end
 
 appraise "spree-master" do
